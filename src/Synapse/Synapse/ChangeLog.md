@@ -18,6 +18,8 @@
         - Additional information about change #1
 -->
 ## Upcoming Release
+
+## Version 0.10.0
 * Renamed -AllowAllAzureIP to -AllowAllAzureIp and changed IP range to 0.0.0.0-0.0.0.0 
 * Added -AllowAllIp and set IP range to 0.0.0.0-255.255.255.255
 * Fixed the issue of retrieving Apache Spark pool information through management API
